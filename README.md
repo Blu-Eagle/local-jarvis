@@ -9,3 +9,8 @@ it tries to have everython locally.
 as long as it is noow it works :)
 
 if you improve it let me know :)
+
+start making a virtual environment with
+python -m venv venv
+
+and then install all the dependencies from requirements.txt, probably there is more than it is needed, i forgot to remove the unsused ones.
